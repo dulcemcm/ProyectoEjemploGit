@@ -7,12 +7,12 @@
 "python HolaMundo.py"
 
 ## Comandos utilizados
-"git init"
-"git commit"
-"git status"
-"git add -A"
-"git remote add"
-"git push"
+- "git init"
+- "git commit"
+- "git status"
+- "git add -A"
+- "git remote add"
+- "git push"
 
 ## Notas sobre los archivos
 ### El programa "HolaMundo.py" al ejecutarlo imprime en pantalla: "Hola Git".
