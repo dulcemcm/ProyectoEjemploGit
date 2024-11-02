@@ -1,2 +1,2 @@
 # HolaMundo.py
-print("Hola Git")
+print("Hola Mundo")
